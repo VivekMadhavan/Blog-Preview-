@@ -17,12 +17,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Blog Preview Screenshot](<blog_preview - screenshot-1.png>)
+<img width="831" alt="blog_preview - screenshot" src="https://github.com/VivekMadhavan/Blog-Preview-/assets/38138580/9814bdba-c743-4627-8938-535f76768373">
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://heartfelt-boba-712a83.netlify.app/
 
 ## My process
 
@@ -54,8 +54,4 @@ p {
 
 ## Author
 
-- Website - [Vivek Madhavan](https://www.your-site.com)
 - Frontend Mentor - [@VivekMadhavan](https://www.frontendmentor.io/profile/VivekMadhavan)
-
-
-
